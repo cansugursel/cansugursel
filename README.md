@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer</h3>
 
 
-- 🌱 I’m currently learning **JavaScript,React,Vue.Js,.NET**
+- 🌱 I’m currently learning **JavaScript,React,Angular,Vue.Js,.NET**
 
 - 📫 How to reach me **gurselcansu@outlook.com**
 
