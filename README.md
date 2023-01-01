@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cansu</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 - 🌱 I’m currently learning **JavaScript,React,Angular,Vue.Js,.NET**
