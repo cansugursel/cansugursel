@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **JavaScript,React,Angular,Vue.Js,.NET**
+- 🌱 I’m currently learning **JavaScript,React,Angular,Vue.Js,.NET,PHP**
 
 - 📫 How to reach me **gurselcansu@outlook.com**
 
