@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cansu</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Front End Developer</h3>
 
 
-- 🌱 I’m currently learning **JavaScript,React,Angular,Vue.Js,.NET,PHP**
+- 🌱 I’m currently learning **Node , JavaScript, React, Angular, ASP.NET Core,PHP**
 
 - 📫 How to reach me **gurselcansu@outlook.com**
 
