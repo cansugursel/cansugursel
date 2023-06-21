@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer</h3>
 
 
-- 🌱 I’m currently learning **Node , JavaScript, React, Angular, ASP.NET Core,PHP**
+- 🌱 I’m currently learning **Node , JavaScript, React**
 
 - 📫 How to reach me **gurselcansu@outlook.com**
 
